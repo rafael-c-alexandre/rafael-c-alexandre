@@ -2,9 +2,9 @@
 
 I am an early-stage researcher at [INESC-ID](https://www.inesc-id.pt/) 💻, currently studying the problem of the interruption and subsequent restart of a serverless instance, specifically when functions are not idempotent. I also recently obtained an MSc degree in Computer Science and Engineering from [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/) 🎓.
 
-My main interests are within the fields of **Distributed Systems** and **Cybersecurity** 🧐. I am also trying to get into the *machine learning* realm 🤖.
+My main interests are within the fields of **Distributed Systems** and **Cybersecurity** 🧐. I am also trying to get into the **machine learning** realm 🤖 and some of my current personal projects follow that interest.
 
-
+<br\>
 <p  align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafael-c-alexandre" alt="visitor badge"/>       
 </p>
