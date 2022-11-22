@@ -9,7 +9,7 @@
 I also like all kinds of sports ⚽️, travelling ✈️ and mystery TV shows 🕵🏻‍♂️.
 
 
-#### Some GitHub statistics 📈
+#### 📈 Some GitHub statistics 
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafael-c-alexandre" alt="visitor badge"/>       
