@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi visitor, my name is Rafael (he/him) 👋,
+
+I am an early-stage researcher at [INESC-ID](https://www.inesc-id.pt/) 💻, currently studying the problem of the interruption and subsequent restart of a serverless instance, specifically when functions are not idempotent. I also recently obtained an MSc degree in Computer Science and Engineering from [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/) 🎓.
+
+My main interests are within the fields of **Distributed Systems** and **Cybersecurity** 🧐. I am also trying to get into the *machine learning* realm 🤖.
+
+
+<p  align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rafael-c-alexandre" alt="visitor badge"/>       
+</p>
 
 <!--
-**rafael-c-alexandre/rafael-c-alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
