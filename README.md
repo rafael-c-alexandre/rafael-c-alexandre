@@ -4,7 +4,7 @@ I am an early-stage researcher at [INESC-ID](https://www.inesc-id.pt/) 💻, cur
 
 My main interests are within the fields of **Distributed Systems** and **Cybersecurity** 🧐. I am also trying to get into the **machine learning** realm 🤖 and some of my current personal projects follow that interest.
 
-<br\>
+<br>
 <p  align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafael-c-alexandre" alt="visitor badge"/>       
 </p>
