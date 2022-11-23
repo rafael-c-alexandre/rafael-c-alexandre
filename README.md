@@ -11,10 +11,12 @@ I also like all kinds of sports ⚽️, travelling ✈️ and mystery TV shows �
 
 #### 📈 Some GitHub Statistics 
 
+<br>
+
 <p align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafael-c-alexandre&theme=dark&border_radius=3" />
-      <img src="https://streak-stats.demolab.com?user=rafael-c-alexandre&border_radius=3" alt="streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafael-c-alexandre&theme=dark&border_radius=3" />
+    <img src="https://streak-stats.demolab.com?user=rafael-c-alexandre&border_radius=3" alt="streak stats" />
   </picture>
 </p>
 
