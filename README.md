@@ -1,4 +1,4 @@
-### Hi visitor, my name is Rafael (he/him) 👋,
+### 👋 Hi visitor, my name is Rafael (he/him),
 
 💻 I am an early-stage researcher at [INESC-ID](https://www.inesc-id.pt/), currently studying the problem of the interruption and subsequent restart of a serverless instance, specifically when functions are not idempotent. <br>
 🎓I also recently obtained an MSc degree in Computer Science and Engineering from [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/).
@@ -9,9 +9,18 @@
 I also like all kinds of sports ⚽️, travelling ✈️ and mystery TV shows 🕵🏻‍♂️.
 
 
-#### 📈 Some GitHub statistics 
+#### 📈 Some GitHub Statistics 
 
-<p  align="center">
+<p align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafael-c-alexandre&theme=dark&border_radius=3" />
+      <img src="https://streak-stats.demolab.com?user=rafael-c-alexandre&border_radius=3" alt="streak stats" />
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafael-c-alexandre" alt="visitor badge"/>       
 </p>
 
