@@ -3,7 +3,7 @@
 💻 I am an early-stage researcher at [INESC-ID](https://www.inesc-id.pt/), currently studying the problem of the interruption and subsequent restart of a serverless instance, specifically when functions are not idempotent. <br>
 🎓I also recently obtained an MSc degree in Computer Science and Engineering from [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/).
 
-🧐 My main interests are within the fields of Distributed Systems** and Cybersecurity . <br>
+🧐 My main interests are within the fields of Distributed Systems and Cybersecurity. <br>
 🤖 I am also trying to get into the Machine Learning realm and some of my current personal projects follow that interest.
 
 I also like all kinds of sports ⚽️, travelling ✈️ and mystery TV shows 🕵🏻‍♂️.
